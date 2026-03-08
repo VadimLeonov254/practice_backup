@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dsa/day_eight/window_frequency/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dsa/day_eight/window_frequency/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dsa/day_eight/window_frequency/build/CMakeFiles/rebuild_cache.dir

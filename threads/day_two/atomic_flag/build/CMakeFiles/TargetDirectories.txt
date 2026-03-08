@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_two/atomic_flag/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_two/atomic_flag/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_two/atomic_flag/build/CMakeFiles/rebuild_cache.dir

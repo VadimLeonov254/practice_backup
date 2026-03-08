@@ -1,0 +1,10 @@
+# ninja log v5
+37	459	1769194271215746500	CMakeFiles/main.dir/src/Tool.cpp.o	4159aaaf6de0a9e5
+37	494	1769194680094462400	CMakeFiles/main.dir/src/Worker.cpp.o	4e19996d79a08337
+37	633	1769194561132003700	CMakeFiles/main.dir/src/main.cpp.o	5848e8aad32294ae
+44	581	1769194550391975500	CMakeFiles/main.dir/src/Workshop.cpp.o	9bf37cce7d7f907b
+503	869	1769194680470299800	main	77872f8def6c0c1
+38	423	1769194738686730200	CMakeFiles/main.dir/src/Tool.cpp.o	4159aaaf6de0a9e5
+40	551	1769194738817290300	CMakeFiles/main.dir/src/Worker.cpp.o	4e19996d79a08337
+43	628	1769194738891399800	CMakeFiles/main.dir/src/Workshop.cpp.o	9bf37cce7d7f907b
+635	957	1769194739222378200	main	77872f8def6c0c1

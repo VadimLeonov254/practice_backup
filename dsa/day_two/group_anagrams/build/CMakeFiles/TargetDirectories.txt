@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dsa/day_two/group_anagrams/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dsa/day_two/group_anagrams/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dsa/day_two/group_anagrams/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/uniqie_ptr/day_seven/smart_lamp/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/uniqie_ptr/day_seven/smart_lamp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/uniqie_ptr/day_seven/smart_lamp/build/CMakeFiles/rebuild_cache.dir

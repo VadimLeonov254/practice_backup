@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_ten/leaky_bucket:]/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_ten/leaky_bucket:]/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_ten/leaky_bucket:]/build/CMakeFiles/rebuild_cache.dir

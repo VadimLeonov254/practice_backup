@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dsa/day_six/contains_duplicates/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dsa/day_six/contains_duplicates/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dsa/day_six/contains_duplicates/build/CMakeFiles/rebuild_cache.dir

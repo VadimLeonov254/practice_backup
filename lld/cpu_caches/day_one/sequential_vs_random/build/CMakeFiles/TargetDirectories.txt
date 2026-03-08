@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/lld/day_one/sequential_vs_random/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/lld/day_one/sequential_vs_random/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/lld/day_one/sequential_vs_random/build/CMakeFiles/rebuild_cache.dir

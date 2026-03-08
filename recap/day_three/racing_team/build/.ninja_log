@@ -1,0 +1,9 @@
+# ninja log v5
+43	628	1769042509943201700	CMakeFiles/main.dir/src/Car.cpp.o	e90b47c23bb8eee7
+50	914	1769042510233212800	CMakeFiles/main.dir/src/Race.cpp.o	999374e43b42f48d
+42	1771	1769042683375118100	CMakeFiles/main.dir/src/Driver.cpp.o	e840af1ca1852d5d
+47	762	1769042510079969200	CMakeFiles/main.dir/src/Garage.cpp.o	afc001b70ec674f7
+52	1990	1769042683595224000	CMakeFiles/main.dir/src/main.cpp.o	971048a1abb4149e
+41	490	1769042705324679900	CMakeFiles/main.dir/src/Driver.cpp.o	e840af1ca1852d5d
+43	569	1769042705404264700	CMakeFiles/main.dir/src/Race.cpp.o	999374e43b42f48d
+575	1108	1769042705957330200	main	1610b64404e6f776

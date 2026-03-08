@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dsa/day_five/buy_sell/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dsa/day_five/buy_sell/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dsa/day_five/buy_sell/build/CMakeFiles/rebuild_cache.dir

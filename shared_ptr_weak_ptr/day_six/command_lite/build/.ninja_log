@@ -1,0 +1,9 @@
+# ninja log v5
+40	743	1768100651896263100	CMakeFiles/main.dir/src/TaskManager.cpp.o	8a76b8d093a13602
+38	819	1768101014414787300	CMakeFiles/main.dir/src/AddTaskCommand.cpp.o	5529765ef8e5db73
+42	722	1768101106772951300	CMakeFiles/main.dir/src/UndoManager.cpp.o	fc59b53dfa78083b
+40	536	1768101106585425900	CMakeFiles/main.dir/src/DeleteTaskCommand.cpp.o	63cd733a80ce305b
+41	643	1768101217559637300	CMakeFiles/main.dir/src/main.cpp.o	a107240a0f0c3eba
+656	2380	1768101217929305100	main	d13b835c96218eb0
+42	643	1768101339225738800	CMakeFiles/main.dir/src/main.cpp.o	a107240a0f0c3eba
+650	997	1768101339599838000	main	d13b835c96218eb0

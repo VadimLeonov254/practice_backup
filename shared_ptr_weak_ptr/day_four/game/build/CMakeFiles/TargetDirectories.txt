@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/shared_ptr_weak_ptr/day_four/game/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/shared_ptr_weak_ptr/day_four/game/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/shared_ptr_weak_ptr/day_four/game/build/CMakeFiles/rebuild_cache.dir

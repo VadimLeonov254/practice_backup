@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dynamic_memory/day_six/dyn_notes/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dynamic_memory/day_six/dyn_notes/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dynamic_memory/day_six/dyn_notes/build/CMakeFiles/rebuild_cache.dir

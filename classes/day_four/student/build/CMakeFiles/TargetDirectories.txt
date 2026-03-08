@@ -1,0 +1,3 @@
+/mnt/c/Users/Vadim/desktop/practice/classes/day_four/student/build/CMakeFiles/main.dir
+/mnt/c/Users/Vadim/desktop/practice/classes/day_four/student/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vadim/desktop/practice/classes/day_four/student/build/CMakeFiles/rebuild_cache.dir

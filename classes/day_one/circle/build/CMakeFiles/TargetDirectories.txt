@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/classes/day_one/circle/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/classes/day_one/circle/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/classes/day_one/circle/build/CMakeFiles/rebuild_cache.dir

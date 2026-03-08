@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_six/thread_barrier/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_six/thread_barrier/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_six/thread_barrier/build/CMakeFiles/rebuild_cache.dir

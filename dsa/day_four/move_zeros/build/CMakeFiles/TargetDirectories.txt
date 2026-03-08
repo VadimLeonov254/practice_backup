@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dsa/day_four/move_zeros/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dsa/day_four/move_zeros/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dsa/day_four/move_zeros/build/CMakeFiles/rebuild_cache.dir

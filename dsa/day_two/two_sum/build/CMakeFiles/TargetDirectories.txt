@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/dsa/day_two/two_sum/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/dsa/day_two/two_sum/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/dsa/day_two/two_sum/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/recap/day_five/workshop/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/recap/day_five/workshop/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/recap/day_five/workshop/build/CMakeFiles/rebuild_cache.dir

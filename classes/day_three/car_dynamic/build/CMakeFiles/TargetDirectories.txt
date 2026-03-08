@@ -1,0 +1,3 @@
+/mnt/c/Users/Vadim/desktop/practice/classes/day_three/car_dynamic/build/CMakeFiles/main.dir
+/mnt/c/Users/Vadim/desktop/practice/classes/day_three/car_dynamic/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vadim/desktop/practice/classes/day_three/car_dynamic/build/CMakeFiles/rebuild_cache.dir

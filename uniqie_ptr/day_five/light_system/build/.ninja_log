@@ -1,0 +1,7 @@
+# ninja log v5
+49	830	1767398855225343200	CMakeFiles/main.dir/src/main.cpp.o	fe8dd96b449327c2
+43	849	1767398855251821900	CMakeFiles/main.dir/src/SmartLight.cpp.o	f8356f063ba4ec7d
+35	864	1767398855264671600	CMakeFiles/main.dir/src/DimState.cpp.o	ded9ee89897c75c0
+40	876	1767398855264671600	CMakeFiles/main.dir/src/OnState.cpp.o	829f663f0a63e14b
+40	555	1767398890932876400	CMakeFiles/main.dir/src/OffState.cpp.o	ddc2a77470dcfdb0
+562	1138	1767398891513538100	main	6214fe59f4cf9f79

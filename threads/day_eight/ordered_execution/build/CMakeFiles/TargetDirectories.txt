@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_eight/ordered_execution/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_eight/ordered_execution/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_eight/ordered_execution/build/CMakeFiles/rebuild_cache.dir

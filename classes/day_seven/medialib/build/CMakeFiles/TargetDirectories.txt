@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/classes/day_seven/medialib/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/classes/day_seven/medialib/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/classes/day_seven/medialib/build/CMakeFiles/rebuild_cache.dir

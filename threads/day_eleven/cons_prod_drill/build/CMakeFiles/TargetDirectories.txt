@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_eleven/cons_prod_drill/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_eleven/cons_prod_drill/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_eleven/cons_prod_drill/build/CMakeFiles/rebuild_cache.dir

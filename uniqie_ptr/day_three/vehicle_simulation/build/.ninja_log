@@ -1,0 +1,15 @@
+# ninja log v5
+46	1843	1767219181369963300	CMakeFiles/vehicle_simulator.dir/source/Bike.cpp.o	39a6142533c3dc9f
+44	1855	1767219181373489100	CMakeFiles/vehicle_simulator.dir/source/Car.cpp.o	16b7f16e79efa2f9
+51	1930	1767219181452506000	CMakeFiles/vehicle_simulator.dir/source/Factory.cpp.o	1da5c93c0081653f
+42	1902	1767219181435007300	CMakeFiles/vehicle_simulator.dir/source/main.cpp.o	9a11bdab5057e96
+48	1909	1767219181435007300	CMakeFiles/vehicle_simulator.dir/source/Garage.cpp.o	80e0e351586c0cf4
+1962	2477	1767221514814762400	main	80eb7fed5f6a0c03
+1935	2272	1767219181810899400	vehicle_simulator	27d0eac8a926c638
+76	2034	1767221421044404500	CMakeFiles/main.dir/source/Factory.cpp.o	e3779fcad8024968
+44	628	1767223369961318000	CMakeFiles/main.dir/source/Bike.cpp.o	9f9bf6e3b02897ea
+35	1955	1767221514252798800	CMakeFiles/main.dir/source/main.cpp.o	c79874a0dc342acd
+42	673	1767223369965317400	CMakeFiles/main.dir/source/Car.cpp.o	cac931b50d5f4fbd
+42	628	1767221443542381400	CMakeFiles/main.dir/source/Garage.cpp.o	b200047c94ba3d0
+45	648	1767223783323213200	CMakeFiles/main.dir/source/Factory.cpp.o	e3779fcad8024968
+656	988	1767223783658963700	main	80eb7fed5f6a0c03

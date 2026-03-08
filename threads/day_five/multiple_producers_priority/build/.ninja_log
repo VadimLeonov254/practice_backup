@@ -1,0 +1,5 @@
+# ninja log v5
+27	848	1769809319638109300	CMakeFiles/main.dir/multiple_producers_priority.cpp.o	61ee9ed9044c2c58
+854	1103	1769809319885098100	main	d39beade733cfd89
+27	825	1769809339558530900	CMakeFiles/main.dir/multiple_producers_priority.cpp.o	61ee9ed9044c2c58
+832	1054	1769809339784470000	main	d39beade733cfd89

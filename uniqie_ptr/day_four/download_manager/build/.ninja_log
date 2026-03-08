@@ -1,0 +1,10 @@
+# ninja log v5
+50	1785	1767327310984514400	CMakeFiles/main.dir/src/DownloadManager.cpp.o	c1ce63781ca9a4aa
+51	677	1767326830848292000	CMakeFiles/main.dir/src/PauseState.cpp.o	609de4b16654e8d9
+52	653	1767327813855955600	CMakeFiles/main.dir/src/FailState.cpp.o	aacb97d42304158f
+506	932	1767327486978717100	main	ee48857523528c12
+49	733	1767327813937055600	CMakeFiles/main.dir/src/DownloadingState.cpp.o	efa10ea8e7e38c85
+54	745	1767327813940055900	CMakeFiles/main.dir/src/IdleState.cpp.o	6328ed975bf07330
+58	695	1767327813897232700	CMakeFiles/main.dir/src/main.cpp.o	92cef0174490dd38
+48	578	1767327846472095900	CMakeFiles/main.dir/src/PauseState.cpp.o	609de4b16654e8d9
+616	1043	1767327846941072300	main	ee48857523528c12

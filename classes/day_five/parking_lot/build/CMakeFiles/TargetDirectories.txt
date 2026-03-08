@@ -1,0 +1,3 @@
+/mnt/c/Users/Vadim/desktop/practice/classes/day_five/parking_lot/build/CMakeFiles/main.dir
+/mnt/c/Users/Vadim/desktop/practice/classes/day_five/parking_lot/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vadim/desktop/practice/classes/day_five/parking_lot/build/CMakeFiles/rebuild_cache.dir

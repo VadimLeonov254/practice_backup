@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/uniqie_ptr/day_two/ownership_chain/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/uniqie_ptr/day_two/ownership_chain/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/uniqie_ptr/day_two/ownership_chain/build/CMakeFiles/rebuild_cache.dir

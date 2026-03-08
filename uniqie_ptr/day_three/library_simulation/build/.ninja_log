@@ -1,0 +1,9 @@
+# ninja log v5
+49	559	1767235565907091800	CMakeFiles/main.dir/src/fiction.cpp.o	dc2b085a37569897
+54	3984	1767235680069013600	CMakeFiles/main.dir/src/factory.cpp.o	af7d068e56446731
+55	542	1767235565903097600	CMakeFiles/main.dir/src/nonfiction.cpp.o	d98f6dcd228c956d
+57	688	1767235566062776100	CMakeFiles/main.dir/src/shelf.cpp.o	64acceb980c1a6f0
+45	3969	1767235680057582600	CMakeFiles/main.dir/src/main.cpp.o	5095ebc29c369599
+50	590	1767236117519635100	CMakeFiles/main.dir/src/shelf.cpp.o	64acceb980c1a6f0
+48	606	1767236117526737800	CMakeFiles/main.dir/src/library.cpp.o	9c624ec4bb8c5e46
+612	1183	1767236118108915700	main	23d92b38106c4940

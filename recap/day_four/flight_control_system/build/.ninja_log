@@ -1,0 +1,6 @@
+# ninja log v5
+26	275	1769130696439769400	CMakeFiles/main.dir/src/Plane.cpp.o	cd39d4c5250f568a
+26	349	1769130921193831200	CMakeFiles/main.dir/src/AirTrafficControl.cpp.o	49628e4564c2fb5c
+28	290	1769130921132321400	CMakeFiles/main.dir/src/Pilot.cpp.o	2dcc57b69b1e0002
+24	392	1769131208268606600	CMakeFiles/main.dir/src/main.cpp.o	47d27f1b9d87fb48
+402	629	1769131208535897100	main	243ee5815a55312a

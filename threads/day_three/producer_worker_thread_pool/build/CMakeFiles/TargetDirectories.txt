@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_three/producer_worker_thread_pool/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_three/producer_worker_thread_pool/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_three/producer_worker_thread_pool/build/CMakeFiles/rebuild_cache.dir

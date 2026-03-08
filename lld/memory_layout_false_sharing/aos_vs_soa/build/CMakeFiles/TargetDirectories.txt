@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/lld/memory_layout_false_sharing/aos_vs_soa/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/lld/memory_layout_false_sharing/aos_vs_soa/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/lld/memory_layout_false_sharing/aos_vs_soa/build/CMakeFiles/rebuild_cache.dir

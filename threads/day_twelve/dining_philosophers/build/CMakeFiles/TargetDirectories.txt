@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/threads/day_twelve/dining_philosophers/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/threads/day_twelve/dining_philosophers/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/threads/day_twelve/dining_philosophers/build/CMakeFiles/rebuild_cache.dir

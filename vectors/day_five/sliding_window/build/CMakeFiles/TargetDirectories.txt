@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/vectors/day_five/sliding_window/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/vectors/day_five/sliding_window/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/vectors/day_five/sliding_window/build/CMakeFiles/rebuild_cache.dir

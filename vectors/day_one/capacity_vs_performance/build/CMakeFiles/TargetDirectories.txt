@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice/vectors/day_one/capacity_vs_performance/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice/vectors/day_one/capacity_vs_performance/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice/vectors/day_one/capacity_vs_performance/build/CMakeFiles/rebuild_cache.dir

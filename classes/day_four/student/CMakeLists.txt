@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(student)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(main main.cpp student_dynamic.h student_dynamic.cpp)
+
