@@ -1,0 +1,3 @@
+/mnt/c/Users/vadle/practice_backup/dsa/day_twenty/top_k/build/CMakeFiles/main.dir
+/mnt/c/Users/vadle/practice_backup/dsa/day_twenty/top_k/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vadle/practice_backup/dsa/day_twenty/top_k/build/CMakeFiles/rebuild_cache.dir
